@@ -38,7 +38,3 @@ The `update_digital_time()` function updates the digital clock time displayed on
 - Allow users to choose a different alarm sound.
 - Implement a snooze feature for the alarm.
 - Improve the UI design and add more customization options.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
